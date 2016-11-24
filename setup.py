@@ -11,7 +11,7 @@ tests_require = ['pytest', 'pytest-cov']
 
 setup(
     name=__PACKAGE__,
-    version='0.1.0',
+    version='0.1.1',
     url='https://github.intra.douban.com/zhuzhaolong/graphite-kenshin.git',
     author="zzl0",
     description=('A plugin for using graphite-api with kenshin-based '
