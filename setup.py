@@ -12,7 +12,7 @@ tests_require = ['pytest', 'pytest-cov']
 setup(
     name=__PACKAGE__,
     version='0.1.1',
-    url='https://github.intra.douban.com/coresys/graphite-kenshin.git',
+    url='https://github.com/douban/graphite-kenshin.git',
     author="zzl0",
     description=('A plugin for using graphite-api with kenshin-based '
                  'storage backend'),
